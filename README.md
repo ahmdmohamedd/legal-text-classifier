@@ -93,12 +93,6 @@ Navigate to the project directory:
 cd legal-text-classifier
 ```
 
-Install the required dependencies (if not already installed):
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## **Project Structure**
